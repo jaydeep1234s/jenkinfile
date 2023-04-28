@@ -1,0 +1,82 @@
+
+
+Day1
+
+1}replicaset
+2}relication contoller
+3}deployment
+4}statefulset
+5}daemonset
+6}staic pod
+7}archetecture of k8s
+8}deployment stargies
+9}ingress in k8s
+10}ingress controller
+
+
+Day2
+11}ingress{use caSes}
+12}headless service
+13}nodeport service
+14}load balancer
+15}cluster ip
+16} persistent volume
+17}persistent volume claim
+18}storage classes
+19}emptydir volume
+20}hostpath volume
+
+
+
+DAY3
+
+21}NFS
+22}secrete
+23}configmap
+24}probe in k8s
+25}startup probe
+26}readiness probe
+27}liveness probe
+28}ommkilled error
+29}crashloopbackoff
+30}image pull backoff
+
+
+
+Day4
+31}sidecar conatainer
+32}init conatiner
+33}pod distrbution budget
+34}horizontal pod autoscalling
+35}creating k8s cluster
+36}rbac
+37}cluster role binding
+38}cluster role
+39}kubernetes security
+40}kubernetes networking
+
+
+day5
+41}udate k8s cluster
+42}node affinity
+43}pod affinity
+44}MICROSERVICES
+45} VIRTUALIZATION VS. CONTAINERIZATION:
+46}  CONTAINERIZATION:
+47} KUBERNETES :   
+48}  FEATURES OF K8S :
+49}POD :
+50} MULTI CONTAINER POD :
+
+
+Day6
+
+51} namespace
+52}JOBS 
+53}TAINTS AND TOLERATIONS
+54}creating eks cluster
+55}crate ecs cluster
+56}cronjob
+57}promethus and grafana
+58}
+
